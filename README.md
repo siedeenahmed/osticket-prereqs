@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - PHP 7.3.8
 - PHP Manager for IIS
-- The Rewrite Module
+- Rewrite Module
 - MySQL 5.5.62
 - HeidiSQL
 
